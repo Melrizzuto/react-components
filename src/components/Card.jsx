@@ -1,6 +1,6 @@
 function Card() {
     return (
-        <main className="d-flex justify-content-center align-content-center">
+        <main className="d-flex justify-content-center align-content-center m-3">
             <div className="card" style={{ width: "30rem" }}>
                 <img src="https://via.placeholder.com/600x400" className="card-img-top" alt="Placeholder" />
                 <div className="card-body">
