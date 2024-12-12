@@ -8,7 +8,7 @@ function Card() {
                     <p className="card-text">
                         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum, eveniet. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolorem aliquam magni deserunt
                     </p>
-                    <a href="#" className="btn btn-primary">Leggi di più</a>
+                    <a href="#" className="btn btn-warning">Leggi di più</a>
                 </div>
             </div>
         </main>
