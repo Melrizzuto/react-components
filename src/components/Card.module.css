@@ -1,0 +1,21 @@
+/* Card.module.css */
+.card {
+    width: 25rem;
+    margin: 6px;
+    border: 2px solid #ccc;
+}
+
+.cardTitle {
+    color: #333;
+    font-size: 1.5rem;
+}
+
+.cardButton {
+    font-size: 0.8rem;
+    background-color: #ffc247;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 0;
+    text-transform: uppercase;
+    color: white;
+}
