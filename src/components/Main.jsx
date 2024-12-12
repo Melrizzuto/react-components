@@ -3,7 +3,7 @@ import landscapes from "../data/landscape";
 
 function Main() {
     return (
-        <main className="d-flex flex-wrap justify-content-center p-4">
+        <main className="container-fluid d-flex flex-wrap justify-content-center p-4">
             {landscapes.map((landscape) => (
                 <Card
                     key={landscape.id}
