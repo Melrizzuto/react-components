@@ -1,5 +1,5 @@
 import Header from "./components/Header"
-import Card from "./components/Card"
+import Main from "./components/Main"
 import Footer from "./components/Footer"
 function App() {
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header />
-      <Card />
+      <Main />
       <Footer />
     </>
   )
