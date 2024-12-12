@@ -1,7 +1,7 @@
 function Card({ title, description, img }) {
     return (
 
-        <div className="card" style={{ width: "30rem" }}>
+        <div className="card m-1" style={{ width: "30rem" }}>
             <img src={img} className="card-img-top" alt={title} />
             <div className="card-body">
                 <h5 className="card-title">{title}</h5>

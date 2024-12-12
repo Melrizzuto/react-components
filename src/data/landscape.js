@@ -1,10 +1,22 @@
 const landscapes = [
     {
         id: 1,
-        title: "La bellezza della Danimarca",
+        title: "Danimarca",
         description: "Scopri la magia dei paesaggi danesi, tra coste mozzafiato, colline verdi e architettura affascinante.",
-        img: "/danimarca.jpg",
+        img: "/public/danimarca.jpg"
     },
+    {
+        id: 2,
+        title: "Copenhagen",
+        description: "La capitale della Danimarca, famosa per i suoi canali, il parco divertimenti Tivoli e la statua della Sirenetta.",
+        img: "/public/copenhagen.jpg",
+    },
+    {
+        id: 3,
+        title: "Aarhus",
+        description: "Una città portuale sulla costa orientale, conosciuta per la sua scena culturale e l'architettura moderna.",
+        img: "/public/aarhus.jpg",
+    }
 ];
 
 export default landscapes;
